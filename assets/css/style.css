@@ -1,0 +1,9 @@
+body {
+    font-family: 'Roboto Mono', monospace;
+}
+
+section {
+    width: 60vw;
+    margin: 0 auto;
+    margin-top: 150px;
+}
